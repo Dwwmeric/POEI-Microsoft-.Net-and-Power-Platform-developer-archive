@@ -21,18 +21,18 @@ namespace App_deck_pokemon.Controllers
 
         public ImagePokemonController(PokemonRepository pokemonRepository, ImagePokemonRepository imagePokemonRepository)
         {
-            _blobServiceClient = new BlobServiceClient(@"DefaultEndpointsProtocol=https;AccountName=utopios;AccountKey=f+MNepU+9I2qqVi/DvBs/t0TN18kWYK5ogsFArG1c7/DfjMO2jiXrM22BuL+AbihidNMXMt++66d+AStFSOTYw==;EndpointSuffix=core.windows.net");
+            _blobServiceClient = new BlobServiceClient(@"DefaultEndpointsProtocol=https;AccountName=utopios;EndpointSuffix=core.windows.net");
             // _blobServiceClient = new BlobServiceClient(new Uri("https://utopios.blob.core.windows.net"), new ManagedIdentityCredential());
             _pokemonRepository = pokemonRepository;
             _imagePokemonRepository = imagePokemonRepository;
         }
 
-        //Créate container 
+        //Créate container
         [Authorize(Policy = "admin")]
         [HttpPost("/container")]
         public IActionResult Post(string name)
         {
-            //Créer container 
+            //Créer container
             BlobContainerClient containerClient = _blobServiceClient.CreateBlobContainer(name);
             if (containerClient.Exists())
             {
