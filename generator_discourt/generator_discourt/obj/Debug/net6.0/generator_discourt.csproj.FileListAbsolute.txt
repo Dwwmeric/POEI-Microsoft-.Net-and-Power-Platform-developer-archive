@@ -1,0 +1,15 @@
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\bin\Debug\net6.0\generator_discourt.exe
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\bin\Debug\net6.0\generator_discourt.deps.json
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\bin\Debug\net6.0\generator_discourt.runtimeconfig.json
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\bin\Debug\net6.0\generator_discourt.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\bin\Debug\net6.0\generator_discourt.pdb
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.csproj.AssemblyReference.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.AssemblyInfoInputs.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.AssemblyInfo.cs
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.csproj.CoreCompileInputs.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\refint\generator_discourt.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.pdb
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\generator_discourt.genruntimeconfig.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\generator_discourt\generator_discourt\obj\Debug\net6.0\ref\generator_discourt.dll

@@ -1,0 +1,15 @@
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.exe
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.deps.json
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.runtimeconfig.json
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.pdb
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.csproj.AssemblyReference.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.AssemblyInfoInputs.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.AssemblyInfo.cs
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\refint\nombre_magique.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.pdb
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.genruntimeconfig.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\nombre_magique\nombre_magique\obj\Debug\net6.0\ref\nombre_magique.dll
