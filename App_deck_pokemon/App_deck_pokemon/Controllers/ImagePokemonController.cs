@@ -21,8 +21,7 @@ namespace App_deck_pokemon.Controllers
 
         public ImagePokemonController(PokemonRepository pokemonRepository, ImagePokemonRepository imagePokemonRepository)
         {
-            _blobServiceClient = new BlobServiceClient(@"");
-            // _blobServiceClient = new BlobServiceClient(new Uri("https://utopios.blob.core.windows.net"), new ManagedIdentityCredential());
+            _blobServiceClient = new BlobServiceClient("");
             _pokemonRepository = pokemonRepository;
             _imagePokemonRepository = imagePokemonRepository;
         }
